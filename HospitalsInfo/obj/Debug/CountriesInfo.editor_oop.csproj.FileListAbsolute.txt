@@ -1,0 +1,13 @@
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\CountriesInfo.editor_oop.exe.config
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\CountriesInfo.editor_oop.exe
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\CountriesInfo.editor_oop.pdb
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\mscorlib.dll
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\normidna.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\normnfc.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\normnfd.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\normnfkc.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\bin\Debug\normnfkd.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\obj\Debug\CountriesInfo.editor_oop.csprojResolveAssemblyReference.cache
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\obj\Debug\CountriesInfo.editor_oop.exe
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\CountriesInfo.editor_oop\obj\Debug\CountriesInfo.editor_oop.pdb

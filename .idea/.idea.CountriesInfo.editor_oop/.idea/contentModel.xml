@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\getlight\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\getlight\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CountriesInfo.editor_oop.801639478.00" t="ExcludeRecursive" />
+    <e p="C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)" t="IncludeFlat">
+      <e p="CountriesInfo.editor_oop.sln" t="IncludeFlat" />
+      <e p="HospitalsInfo" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleIO" t="Include">
+          <e p="Entering.cs" t="Include" />
+          <e p="Settings.cs" t="Include" />
+        </e>
+        <e p="ConsoleUI" t="Include">
+          <e p="CommandInfo.cs" t="Include" />
+          <e p="CommandManager.cs" t="Include" />
+          <e p="MainManager.cs" t="Include" />
+        </e>
+        <e p="CountriesInfo.editor_oop.cd" t="Include" />
+        <e p="Data" t="Include">
+          <e p="DataContext.cs" t="Include" />
+          <e p="DataContext.testing.cs" t="Include" />
+        </e>
+        <e p="Editors" t="Include">
+          <e p="DepartmentNameEditor.cs" t="Include" />
+          <e p="SurnameEditor.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="DepartmentName.cs" t="Include" />
+          <e p="Entity.cs" t="Include" />
+          <e p="Surname.cs" t="Include" />
+        </e>
+        <e p="Extensions" t="Include">
+          <e p="EnumerableMethods.cs" t="Include" />
+        </e>
+        <e p="HospitalsInfo.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

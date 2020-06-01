@@ -1,0 +1,46 @@
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.exe.config
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.exe
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.pdb
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\mscorlib.dll
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\normidna.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\normnfc.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\normnfd.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\normnfkc.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\bin\Debug\normnfkd.nlp
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.csprojResolveAssemblyReference.cache
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.exe
+C:\Users\getlight\Desktop\College\3 курс\С#\Project#3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.pdb
+D:\Загрузки\ПР3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.csprojAssemblyReference.cache
+D:\Загрузки\ПР3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.csproj.CoreCompileInputs.cache
+D:\Загрузки\ПР3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.exe
+D:\Загрузки\ПР3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.pdb
+D:\Загрузки\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.exe.config
+D:\Загрузки\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.exe
+D:\Загрузки\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.pdb
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.exe.config
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.exe
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.pdb
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\mscorlib.dll
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\normidna.nlp
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\normnfc.nlp
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\normnfd.nlp
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\normnfkc.nlp
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\bin\Debug\normnfkd.nlp
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.exe
+C:\Users\Misha\Desktop\College\c# programming\ПР3 (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.pdb
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.exe.config
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.exe
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\HospitalsInfo.pdb
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\mscorlib.dll
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\normidna.nlp
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\normnfc.nlp
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\normnfd.nlp
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\normnfkc.nlp
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\bin\Debug\normnfkd.nlp
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.exe
+C:\Users\Misha\Desktop\College\c# programming\final (with xml) (Olkhovyi)\HospitalsInfo\obj\Debug\HospitalsInfo.pdb
